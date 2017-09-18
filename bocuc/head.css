@@ -1,0 +1,14 @@
+#head-link{
+    width: 1200px;
+    height: 30px;
+    line-height: 30px;
+    padding-left: 20px;
+    padding-right: 30px;
+    border: 0px solid #CDCDCD;
+    background-color: brown;
+    margin-bottom:5px;
+    clear: both;
+header nav {
+    display: flex;
+    justify-content: flex-end;
+}

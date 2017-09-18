@@ -1,0 +1,20 @@
+#head{
+    width: 1200px;
+    height: 100px;
+    background-color: red;
+    border: 0px solid #CDCDCD;
+    margin-bottom:5px;
+    font-style: oblique;
+    font-size: large;
+    text-align: center;
+}
+.jumbotron {
+    display: flex;
+    align-items: center;
+    background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/jumbotron.jpg');
+    background-size: cover;
+    color: #ffffff;
+    height: 500px;
+    text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+
